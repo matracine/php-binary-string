@@ -6,7 +6,7 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/matracine/php-binary-string/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/matracine/php-binary-string/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/matracine/php-binary-string/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/matracine/php-binary-string/?branch=master)
 [![Code Intelligence Status](https://scrutinizer-ci.com/g/matracine/php-binary-string/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
-[[![Maintainability](https://api.codeclimate.com/v1/badges/c5139257043cfd4999c9/maintainability)](https://codeclimate.com/github/matracine/php-binary-string/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/c5139257043cfd4999c9/maintainability)](https://codeclimate.com/github/matracine/php-binary-string/maintainability)
 
 # PHP BINARY STRING HELPER 
 
