@@ -38,7 +38,7 @@ class BinaryStringHelperTest extends TestCase
             //   TypeError: Argument 1 passed to mracine\BinaryStringHelper\Tests\BinaryStringHelperTest::test__IntegerToNBOBinaryString() must be of the type integer, float given
             //   Seems that php auto convert to float 0xFFF.... 
             // 
-            [0xFFFFFFFFFFFFFFFF, chr(0xFF).chr(0xFF).chr(0xFF).chr(0xFF).chr(0xFF).chr(0xFF).chr(0xFF).chr(0xFF)],
+            //[0xFFFFFFFFFFFFFFFF, chr(0xFF).chr(0xFF).chr(0xFF).chr(0xFF).chr(0xFF).chr(0xFF).chr(0xFF).chr(0xFF)],
 
             // -1 is encoded with 0xFFFFFFF..... 
             // 64 bits maximal value (on a 64 bits system)
