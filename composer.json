@@ -1,0 +1,29 @@
+{
+    "name": "mracine/php-binary-string",
+    "type": "library",
+    "description": "Library to manipulate binary strings",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matthieu Racine",
+            "email": "matthieu.racine@gmail.com",
+            "role": "developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "mracine\\Helpers\\": "src/"
+        }
+    },
+   "autoload-dev": {
+        "psr-4": {
+            "mracine\\BinaryStringHelper\\Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "php": "^7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.0"
+    }
+}
